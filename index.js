@@ -1,6 +1,9 @@
 function aa(bb){
   return aa
 }
-function doSomeThing(){
+function doSomeThings(){
+  return 0;
+}
+function doSomeThings(){
   return 0;
 }
